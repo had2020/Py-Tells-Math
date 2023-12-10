@@ -45,7 +45,7 @@ Video presentation
 https://github.com/had2020/Py-Tells-Math/assets/59424667/d4c2d2e7-c18d-45a8-9549-663e3b3d8f63
 
 -----------------
-Documentation -https://www.weatherapi.com/docs/ -https://docs.python.org/3/library/tkinter.html 
+Documentation -https://www.python.org/doc/ -https://docs.python.org/3/library/tkinter.html 
 ----------------------------
 Have a Wonderful Day! :D
 
